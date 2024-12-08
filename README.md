@@ -1,4 +1,4 @@
-# World-Happiness-Report
+# Multiple Linear Regression
 The data I am using is secondary data. This research aims to identify the factors that influence the World Happiness using multiple linear regression with the Python programming language. 
 The variables I selected are:
 
